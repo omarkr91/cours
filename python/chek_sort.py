@@ -11,3 +11,5 @@ def cheksort(a):
     return print ("this is not the right answer")
 a = "dragonball"
 cheksort(a)
+#this is not check sort number
+#this is password checker
